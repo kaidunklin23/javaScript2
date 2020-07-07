@@ -3,5 +3,5 @@ var keyon = 22;
 function addition ( kaija , keyon){
 return (kaija + keyon)}
 
-console.log(addition);
+console.log(addition(kaija,keyon));
 
